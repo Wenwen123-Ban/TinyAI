@@ -1,0 +1,5 @@
+sum/add/plus/total => addition
+minus/subtract/difference/less => subtraction
+product/times/multiply => multiplication
+divide/quotient/over => division
+greater/less/equal => comparison
